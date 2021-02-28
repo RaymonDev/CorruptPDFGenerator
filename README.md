@@ -1,5 +1,5 @@
 # CorruptPDFGenerator
-This program creates a PDF with the name of your choice that cannot be opened.
+This program creates a PDF that cannot be opened.
 
 ## How it works
 
