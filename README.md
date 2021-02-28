@@ -15,7 +15,7 @@ This program does not require any library. It has been tested on Python 3.9, but
 ### Installing
 
 - Download or clone the repository.
-- Execute the launcher
+- Execute the Python file (with launcher.bat or witht any other prefered method)
 - A command prompt window should appear.
 
 ### How to use:
