@@ -3,7 +3,7 @@ This program creates a PDF that cannot be opened.
 
 ## How it works
 
-These program creates a new pdf file (in the same directory as the code) that cannot be opened. The pdf created has no attributes, so it cannot be opened. If you want to corrupt a pdf manually, you can change the extension of that pdf into a txt, then delete the first line:
+This program creates a new pdf file (in the same directory as the code) that cannot be opened. The pdf created has no attributes, so it cannot be opened. If you want to corrupt a pdf manually, you can change the extension of that pdf into a txt, then delete the first line:
 ```
 %PDF-1.4
 ```
@@ -21,8 +21,8 @@ This program does not require any library. It has been tested on Python 3.9, but
 ### How to use:
 - Execute the script (a command prompt window should appear)
 - Introduce the name of the file (it can contain spaces, numbers...)
-- Press enter
-- A new file will be crated in the same directory as the code, this will be the corrupted pdf. This pdf cannot be opened 
+- Press enter.
+- A new file will be crated in the same directory as the code, this will be the corrupted pdf. This pdf cannot be opened. 
 
 ### Works for sure on:
 
